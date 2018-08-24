@@ -9,5 +9,7 @@
 
 .cls-prueba{
   color-interpolation-filters: auto;
+  overflow: hidden;
+  color: #f60;
 }
 
