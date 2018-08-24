@@ -22,6 +22,10 @@
   -webkit-font-smoothing: antialiased;
 }
 
+.cls-prueba{
+  color-interpolation-filters: auto;
+}
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
